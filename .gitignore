@@ -1,0 +1,80 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Arduino IDE
+build/
+*.o
+*.a
+*.so
+*.so.*
+
+# Certificates and Credentials (NEVER commit these!)
+*.pem
+*.key
+*.crt
+*.cert
+*.cer
+*.pfx
+*.p12
+*.jks
+config/certs/
+secrets/
+.env
+.env.local
+*.secret
+
+# Build outputs
+*.elf
+*.hex
+*.bin
+*.eep
+*.lss
+*.map
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.Python
+
+# Node/npm
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Flutter
+flutter_linux/
+flutter_windows/
+flutter_web/
+flutter_macos/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Documentation build
+site/
+docs/_build/
