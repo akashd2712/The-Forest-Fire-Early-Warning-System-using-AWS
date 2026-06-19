@@ -126,9 +126,7 @@ Contributions are welcome! Please feel free to:
 
 This project is provided as-is for educational and research purposes.
 
-## 👨‍💻 Authors
 
-Created by Akash Dwivedi
 
 ## 🙏 Acknowledgments
 
